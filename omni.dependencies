@@ -1,0 +1,30 @@
+[
+  {
+    "remote": "github",
+    "repository": "TeamWin/android_device_xiaomi_sm8250-common",
+    "target_path": "device/xiaomi/sm8250-common",
+    "branch": "android-11",
+    "revision": "android-11"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_hardware_qcom_bootctrl",
+    "target_path": "hardware/qcom-caf/bootctrl",
+    "branch": "lineage-18.1-caf",
+    "revision": "lineage-18.1-caf"
+  },
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_vendor_qcom_opensource_interfaces",
+    "target_path": "vendor/qcom/opensource/interfaces",
+    "branch": "lineage-18.1",
+    "revision": "lineage-18.1"
+  },
+  {
+    "remote": "github",
+    "repository": "zhxt/Xiaomi_Kernel_OpenSource",
+    "target_path": "kernel/xiaomi/enuma",
+    "branch": "lineage-18.1",
+    "revision": "elish-r-oss"
+  }
+]
